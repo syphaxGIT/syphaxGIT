@@ -79,7 +79,7 @@ Je suis un développeur curieux, autonome et orienté résultats. J'aime travail
 ## 🌐 Restez en contact
 
 - GitHub : https://github.com/syphaxGIT
-- LinkedIn : https://www.linkedin.com/in/syphax
+- LinkedIn : https://www.linkedin.com/in/syphax-kh-a70355181/
 - Email : khimoudsyphax@gmail.com
 
 ---
