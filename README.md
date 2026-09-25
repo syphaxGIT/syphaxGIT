@@ -6,7 +6,7 @@ Développeur passionné par la création de solutions digitales utiles, élégan
 - 🌱 J'apprends : architecture logicielle, automatisation, performance et bonnes pratiques DevOps.
 - 👯 Je cherche : à collaborer sur des projets ambitieux et inspirants.
 - 💬 Ask me about : JavaScript, TypeScript, React, Node.js, Python, APIs, architecture web.
-- 📫 Me contacter : syphax.contact@example.com
+- 📫 Me contacter : khimoudsyphax@gmail.com
 - ⚡ Fun fact : j’aime résoudre des problèmes concrets avec du code simple, propre et maintenable.
 
 ---
@@ -80,7 +80,7 @@ Je suis un développeur curieux, autonome et orienté résultats. J'aime travail
 
 - GitHub : https://github.com/syphaxGIT
 - LinkedIn : https://www.linkedin.com/in/syphax
-- Email : syphax.contact@example.com
+- Email : khimoudsyphax@gmail.com
 
 ---
 
